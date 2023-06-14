@@ -1,0 +1,58 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# Maven
+target/
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Logs
+logs/
+*.log
+
+# Compiled files
+bin/
+target/
+
+# Temporary files
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# IDE-specific files
+.vscode/
+*.code-workspace
+
+# Editor and IDE backup files
+*~
+*.bak
+*.swp
+
+# Test Reports, Screenshots, and Logs
+/src/test/resources/reports/*
+/src/test/resources/screenshots/*
+/src/test/resources/logs/*
+
+
+# Node.js
+node_modules/
+
+# Tomcat Server Folders
+tomcat.*/
+
+# Tomcat Server Directory
+tomcat*
+
+# Temp Directory
+/temp/
